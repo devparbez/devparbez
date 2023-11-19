@@ -16,6 +16,11 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ NodeJS  <br>
 ✅ Linux <br>
 
+## 👨‍💻 Learning
+
+- 🔭 I’m currently working on Js 
+- 🌱 I’m currently learning JavaScript 
+- 📫 How to reach me: devparbez@gmail.com <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devparbez&layout=compact)
 
